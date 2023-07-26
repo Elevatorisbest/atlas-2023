@@ -1,0 +1,42 @@
+{
+	"id": -1,
+	"name": "Hi-Fi Rush",
+	"description": "Hi-Fi Rush is a rhythm-based action game developed by Tango Gameworks and published by Bethesda Softworks for the Windows and Xbox Series X/S platforms. It was announced on January 25, 2023 and released worldwide the same day.\n\nThe game follows self-proclaimed \"future rock star\" Chai (voiced by Robbie Daymond in English and Hiro Shimono in Japanese), whose music player is accidentally embedded in his chest during experimental cybernetic surgery, allowing him to rhythmically fight and re-perceive the world through environmental synesthesia. Labelled a \"defect\" and hunted by the corporation that transformed him, Chai bands together with new friends to defeat the company's executives and put a stop to their plans. Hi-Fi Rush includes licensed music from bands such as The Black Keys and Nine Inch Nails.",
+	"links": {
+		"website": [
+			"https://store.steampowered.com/app/1817230/HiFi_RUSH/"
+		],
+		"subreddit": [
+			"hifirush"
+		],
+		"discord": [
+			"tangogameworks"
+		]
+	},
+	"path": {
+		"208-255": [
+			[
+				-807,
+				402
+			],
+			[
+				-788,
+				402
+			],
+			[
+				-788,
+				385
+			],
+			[
+				-807,
+				385
+			]
+		]
+	},
+	"center": {
+		"208-255": [
+			-797,
+			394
+		]
+	}
+}
